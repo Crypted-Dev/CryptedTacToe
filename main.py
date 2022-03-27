@@ -1,7 +1,3 @@
-"""
-If you're coding this during exams, 
-in good consciousness remind yourself to delete this.
-"""
 
 import pyglet
 import arcade
